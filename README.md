@@ -22,7 +22,7 @@ In the realm of QA Automation, my proficiency extends to technologies like Ruby,
 
 ## 📫 How to reach me
 - 📧 Email: [jocherdevelopment@email.com](mailto:joche.r.development@email.com)
-- 🔗 LinkedIn: [linkedin.com/in/jocherdevelopment]([https://linkedin.com/in/jocherdevelopment](https://www.linkedin.com/in/jose-javier-ramirez-ayala-91457b147/))
+- 🔗 LinkedIn: [[linkedin.com/in/jocherdevelopment](https://www.linkedin.com/in/jose-javier-ramirez-ayala-91457b147/)]([https://linkedin.com/in/jocherdevelopment](https://www.linkedin.com/in/jose-javier-ramirez-ayala-91457b147/))
 
 ## 🛠️ Technologies & Tools
 ### Languages:

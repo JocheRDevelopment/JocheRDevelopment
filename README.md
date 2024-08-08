@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @JocheRDevelopment
+# 👋 Hi, I’m @JocheRDevelopment Jose Ramirez
 
 ## 🌐 About Me
 I am a passionate Fullstack Developer with 7 years of extensive experience in building diverse and challenging projects. My journey in the tech world started with a profound love for JavaScript and Python, eventually growing fond of Java through extensive enterprise-level project experience spanning over 4 years.
